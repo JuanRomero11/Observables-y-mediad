@@ -1,2 +1,2 @@
-# Observables-y-mediad
+# Observables-y-medidas
 Juan Romero
